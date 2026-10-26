@@ -1,5 +1,6 @@
 # NitishChandra_HTML_CSS_Portfolio
 My HTML &amp; CSS Internship Portfolio
+HERE IS THE CODE OF THAT 
 /* Global Styles & Variables */
 :root {
     --primary-color: #0056b3;
